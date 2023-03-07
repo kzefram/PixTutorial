@@ -1,0 +1,11 @@
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\bin\Debug\PixTutorial.exe.config
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\bin\Debug\PixTutorial.exe
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\bin\Debug\PixTutorial.pdb
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\obj\Debug\PixTutorial.csproj.AssemblyReference.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\obj\Debug\PixTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\obj\Debug\PixTutorial.Form1.resources
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\obj\Debug\PixTutorial.Properties.Resources.resources
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\obj\Debug\PixTutorial.csproj.GenerateResource.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\obj\Debug\PixTutorial.csproj.CoreCompileInputs.cache
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\obj\Debug\PixTutorial.exe
+C:\Users\karen\Documents\NBCC-QA\IntroProgram\Prog2023\Projects\PixTutorial\PixTutorial\obj\Debug\PixTutorial.pdb
